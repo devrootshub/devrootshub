@@ -10,13 +10,17 @@
   
 - 🎯 **Programming Goal**: Becoming a full-stack developer by 2025. *(too ambitious!?)*
 
-- 🎨 **Hobbies & Interests**: Photography, Web Design
+- 🎨 **Hobbies & Interests**:
+  * Photography — Capturing moments and telling stories through the lens.
+  * Web Design — Creating visually appealing and functional websites.
+  * Productivity — Finding efficient ways to manage time and tasks.
+  * Technology — Exploring new tech advancements and innovations.
   
 - 📝 I regularly write articles on [thedevroots.com](thedevroots.com)
 
-- 📫 How to reach me: : **hello.devroots@gmail.com**
+- 📫 How to reach me: : hello.devroots@gmail.com
 
-- ⚡ Fun fact i'm a **proud** owner of three kitties
+- ⚡ Fun fact i'm a **proud** owner of three kitties 🐈‍⬛ 🐈 🐈‍⬛
 
   
 #### 🚀 Working on: 

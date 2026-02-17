@@ -13,7 +13,7 @@
   
 - 🎯 This year, my goal is to become a full-stack developer by the end of it. *(too ambitious!?)*
 
-- 📝 I will *(soon)* be writing and posting articles on [// Dev Roots](thedevroots.com)
+- 📝 I will *(soon)* be writing and posting articles on [// Dev Roots](www.thedevroots.com)
 
 - 🎨 Hobbies & Interests:
   - Photography — Capturing moments and telling stories through the lens.
